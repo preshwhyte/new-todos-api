@@ -1,7 +1,6 @@
 {
   "name": "todo-api-simple",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -17,5 +16,14 @@
   "devDependencies": {
     "dotenv": "^17.2.3",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preshwhyte/new-todos-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/preshwhyte/new-todos-api/issues"
+  },
+  "homepage": "https://github.com/preshwhyte/new-todos-api#readme",
+  "description": ""
 }
